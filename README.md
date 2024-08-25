@@ -4,15 +4,18 @@
 
 ## O'rnatish
 
-- Ushbu github repositoryni yuklab oling
-    ```
-    git clone https://github.com/mehmonov/odoo-help.git
-    ```
+Ushbu github repositoryni yuklab oling
+```
+git clone https://github.com/mehmonov/odoo-help.git
+```
 
- -```
- npm i
- ``` 
+Kerakni narsalarni o'rnating:
+```
+npm i
+``` 
 
- - ``` 
- npm start
- ```
+Ishlatvoring: 
+```
+npm i
+``` 
+
