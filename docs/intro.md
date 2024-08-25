@@ -2,46 +2,34 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Tayyorlanamiz
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Ushbu sahifalar orqali odoo haqida boshlang'ich ma'lumotlarni olishingiz mumkin. Ingliz tilida ko'p ekan. O'zbek tilida ham bo'lsin dedik )
 
-## Getting Started
+## Odoo: Ishlarni osonlashtiruvchi tizim
+Katta yoki kichik zavodlar qanday ishlashiga qiziqib ko'rganmisiz? U yerdagi ishlarni boshqarish uchun umumiy tizim kerak bo'ladi. Yoki siz yoqtirgan taomni buyurtma qilganingizda, oshpaz, yetkazib beruvchi va kuryer o'rtasida qanday hamkorlik bo'lishini o'ylab ko'rganmisiz? Ana o'sha ishlarni tizimlashtirish uchun CRM va ERP tizimlari ishlatiladi.
 
-Get started by **creating a new site**.
+### CRM va ERP nima?
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+  - CRM (Customer Relationship Management) – bu tizim mijozlar yoki hamkorlar bilan aloqa ma’lumotlarini saqlashga, sotuv imkoniyatlarini aniqlashga, xizmat ko'rsatishdagi muammolarni hal qilishga va marketing kampaniyalarini boshqarishga yordam beradi.
+  - ERP (Enterprise Resource Planning) – korxonadagi turli jarayonlarni birlashtiruvchi tizim. Masalan, mahsulot ishlab chiqarish, moliyaviy hisob-kitoblar, ombor nazorati, va boshqa jarayonlar bir joyda boshqariladi.
 
-### What you'll need
+## Odoo nima?
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Odoo – bu ERP va CRM tizimlarini o'zida mujassamlashtirgan zamonaviy dastur. U yordamida kompaniyalar moliya, sotuv, xaridlar, ombor, kadrlar va mijozlar bilan ishlash jarayonlarini bir joyda boshqarishi mumkin. Odoo nafaqat yirik korxonalar uchun, balki kichik biznes uchun ham juda mos keladi, chunki u ochiq manbali va moslashuvchan tizimdir.
 
-## Generate a new site
+## Odooning afzalliklari
+ - **Moslashuvchanlik**: Odoo juda ko'p modullarni o'z ichiga oladi va siz kerakli funksiyalarni tanlab qo'shishingiz mumkin. Masalan, agar sizga faqat sotuv va mijozlar bilan ishlash kerak bo'lsa, CRM va sotuv modullarini o'rnatasiz.
+ - **Barcha jarayonlar bir joyda**: Barcha ma'lumotlar va jarayonlarni bir joyda saqlash orqali ish jarayonlari osonlashadi va xatolar kamayadi.
+ - **Ochiq manba**: Odoo dasturi ochiq manba (open-source) bo'lib, bu uning kodlarini o'zgartirish va o'z ehtiyojlaringizga moslashtirish imkoniyatini beradi.
 
-Generate a new Docusaurus site using the **classic template**.
+## Odoo kimlar uchun mos?
+Odooni har qanday biznes turi ishlatishi mumkin, lekin u asosan quyidagi sohalar uchun juda mos keladi:
 
-The classic template will automatically be added to your project after you run the command:
+ - **Savdo**: Savdo jarayonlarini boshqarish va mijozlar bilan aloqani yaxshilash uchun CRM moduli.
+ - **Ishlab chiqarish**: Mahsulot ishlab chiqarish jarayonini kuzatish va optimallashtirish uchun ishlab chiqarish moduli.
+ - **Kadrlar boshqaruvi**: Xodimlarning ish vaqti, mehnat haqi va boshqa ma’lumotlarni kuzatish uchun kadrlar moduli.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## Xulosa
+Odoo yordamida har qanday sohada ishlarni tizimlashtirish va samaradorlikni oshirish mumkin. Odoo kompaniya ichidagi turli jarayonlarni bir joyda boshqarishga yordam beradi va ish jarayonlarini ancha qulaylashtiradi.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.

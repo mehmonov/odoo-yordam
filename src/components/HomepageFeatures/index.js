@@ -4,35 +4,36 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Tezkor va bepul platforma',
+    Svg: require('@site/static/img/undraw_open_source.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Odoo ochiq manba kodiga ega bo'lib, uni butunlay bepul foydalanishingiz mumkin. Keng hamjamiyat va kuchli rivojlanish muhiti 
+        uni har qanday biznes uchun ideal tanlovga aylantiradi.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Cheksiz imkoniyatlar va funksiyalar',
+    Svg: require('@site/static/img/undraw_possibilities.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Odoo turli modullari orqali cheksiz imkoniyatlarni taqdim etadi: sotuvlar, marketing, HR, buxgalteriya va yana ko'plab sohalar uchun qulay yechimlar mavjud. 
+        Har qanday biznes ehtiyojlarini qondirish uchun mo'ljallangan.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Oddiy va qulay foydalanish',
+    Svg: require('@site/static/img/undraw_easy_to_use.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Odoo foydalanuvchi interfeysi juda intuitiv bo'lib, murakkab jarayonlarni oson va tez amalga oshirishga yordam beradi. 
+        Hech qanday texnik bilim talab etmasdan, platformani boshqarish oson.
       </>
     ),
   },
+  
 ];
 
 function Feature({Svg, title, description}) {

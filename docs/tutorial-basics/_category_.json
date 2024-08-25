@@ -1,8 +1,8 @@
 {
-  "label": "Tutorial - Basics",
+  "label": "Qo'llanma - Eng boshi",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Qani, boshladik. Avval odoo'ni o'rganib olamiz"
   }
 }
