@@ -16,6 +16,6 @@ npm i
 
 Ishlatvoring: 
 ```
-npm i
+npm start
 ``` 
 
