@@ -32,8 +32,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Odoo qo'llanma`}
+      description="O'zbekcha odoo qo'llanma. Odoo, uzbekcha, o'zbekcha">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
