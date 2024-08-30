@@ -43,3 +43,4 @@ Odoo'ni kompyuteringizga o‘rnatishning bir nechta usullari bor:
 
  Bu haqida ham video bor 
  (video tez orada)
+

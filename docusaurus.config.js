@@ -137,6 +137,13 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+  scripts: [
+    {
+      src: 'https://static.cloudflareinsights.com/beacon.min.js',
+      defer: true,
+      'data-cf-beacon': '{"token": "02134f22134f47229a6278f0b0ece290"}',
+    },
+  ],
 };
 
 export default config;
